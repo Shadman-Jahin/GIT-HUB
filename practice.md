@@ -20,7 +20,7 @@
 20. git reset --soft HEAD^
 21. git reset --hard HEAD^
 22. git reset HEAD^
-23. git reset HEAD~Number
+23. git reset HEAD~Number (untill 1)
 24. git log --oneline
 25. git show commit-id
 26. git show HEAD
