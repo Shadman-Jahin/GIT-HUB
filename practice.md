@@ -60,12 +60,12 @@
 		[title][link-name];
 		[link-name]: https://..
 	      ]
-50.image (16) [[alt text](image-path)] 	
+50. image (16) [![alt text](image-path)] 	
 51. emoji (17) [copy paste]
 52. table | name | ...|
 		  |---|--|
 
-------------------- CONTINUE TO GIT -------------------
+------------------- CONTINUE with GIT -------------------
 
 53. git remote
 54. git remote -v
