@@ -3,8 +3,10 @@
 3. git config --global user.name "value"
 4. git config --global user.email "value"
 5. git config user.name
+
 6. git init
 7. git status
+
 8. git add file-name
 9. git add -A
 10. git add .
@@ -13,6 +15,7 @@
 13. git diff
 14. git restore file-name
 15. git rm --cached file-name 
+
 16. git commit -m "message"
 17. git commit -am "message"
 18. git log 
@@ -21,14 +24,16 @@
 21. git reset --hard HEAD^
 22. git reset HEAD^
 23. git reset HEAD~Number (untill 1)
+
 24. git log --oneline
 25. git show commit-id
 26. git show HEAD
 27. git show
 28. git show HEAD~Number
+
 29. git checkout commit-id
 30. git checkout HEAD~Number
-31. git checkout file-name (for modification descard file)
+31. git checkout file-name (for modification descard in file)
 32. git checkout master (main)
 33. .gitignore ( file.txt , .file , *.txt  , !file.txt , file?.txt , folder/ )
 34. in gitHub ....
