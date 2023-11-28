@@ -74,7 +74,8 @@
 57. git push -u origin main 
 58. git push 
 59. git pull
-60. git branch
+
+60. git branch (untill)
 61. git branch branch-name
 62. git checkout branch-name
 63. git checkout -b branch-name 
