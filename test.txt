@@ -3,3 +3,4 @@ edited from remote
 from local
 
 fix the problem for issue
+three merge conflict
