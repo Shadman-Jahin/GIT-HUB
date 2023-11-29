@@ -82,6 +82,7 @@
 64. git branch -d branch-name
 65. git merge branch-name (from main) 
 66. git branch -m name rename 
+
 67. Issues in gitHub 
 68. two way merge (fast forward)
 69. three way merge 
