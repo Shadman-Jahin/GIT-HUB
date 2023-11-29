@@ -1,2 +1,4 @@
 this is edited 1
 this is modified
+
+this is three way merge
